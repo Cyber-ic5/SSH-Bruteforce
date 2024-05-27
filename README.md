@@ -30,7 +30,7 @@ Ref 2: Using CeWL on Kali to crawl through the 1st 2 pages of the Delta airlines
 
 ![Screenshot (1684)](https://github.com/Cyber-ic5/SSH-Bruteforce/assets/169179159/202aefeb-1891-4554-b0ba-8fea2b252a4e)
 
-Ref 3: The scraped wordlist was piped into a Python script which appends random numbers and symbols.
+Ref 3: The scraped wordlist was piped into a <a href="https://gist.github.com/usernam121/9f64e1f73248372d60d26d513b02deb2">Python script</a> which appends random numbers and symbols.
 
 ![Screenshot (1686)](https://github.com/Cyber-ic5/SSH-Bruteforce/assets/169179159/04c5c9c2-5057-4950-b7ca-c3f587f4ba8d)
 
@@ -38,7 +38,7 @@ Ref 4: The newly created wordlist was transferred to a file named "passwords.csv
 
 ![Screenshot (1687)](https://github.com/Cyber-ic5/SSH-Bruteforce/assets/169179159/ea506cf5-a155-4dab-bb41-a3d122a453bd)
 
-Ref 5: A python script was launched which uses the "passwords.csv" file to bruteforce an ip.
+Ref 5: A <a href="https://github.com/davidbombal/ssh_bruteforcing">Python script</a> was launched which uses the "passwords.csv" file to bruteforce an ip.
 
 ![Screenshot (1709)](https://github.com/Cyber-ic5/SSH-Bruteforce/assets/169179159/6f46c40b-6a8d-49c6-91f6-d7ecc79fe74f)
 
