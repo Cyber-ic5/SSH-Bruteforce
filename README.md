@@ -59,3 +59,11 @@ Ref 8 & 9: Bonus objective to find the honeypot credentials from the <a href="ht
 Ref 10: Splunk log snippet from the honeypot.
 
 ![Screenshot (1721)](https://github.com/Cyber-ic5/SSH-Bruteforce/assets/169179159/f2d9197f-66ef-4b9e-a324-dc6881b9990b)
+
+### Credits
+
+<a href="https://gist.github.com/usernam121/9f64e1f73248372d60d26d513b02deb2">Ryan John</a> for the Python script that appends random numbers and symbols.
+
+<a href="https://github.com/davidbombal/ssh_bruteforcing">David Bombal</a> for the bruteforcing scipt.
+
+
