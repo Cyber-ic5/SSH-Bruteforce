@@ -14,6 +14,7 @@ The goal of the SSH bruteforce project was to simulate how weak passwords contai
 
 ### Tools Used
 
+- Oracle VM
 - Kali Linux
 - CeWL
 - Python Scripts
