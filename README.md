@@ -1,25 +1,23 @@
 # SSH Bruteforce
 
 ## Objective
-[Brief Objective - Remove this afterwards]
+The goal of the SSH bruteforce project was to simulate how weak passwords containing relations to an employee's organization can be leveraged by adversaries. This project consisted of utilizing a controlled environment along with tools and scripts in Kali linux to extract information from a website (Delta airlines in this example) and using the info to create a wordlist for an SSH bruteforce attack. The purpose was to enhance my understanding of attack techniques, tools, and iterate the importance of strong passwords.
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- Ability to perform a basic red team engagement.
+- Improved proficiency in Kali linux instruments.
+- Deployment of SSH server on Windows machine.
+- Enhanced awareness of security vulnerabilities.
+- Development of problem-solving skills in cybersecurity.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- Kali Linux
+- CeWL
+- Python Scripts
+- Splunk
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
