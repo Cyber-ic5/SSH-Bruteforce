@@ -42,4 +42,20 @@ Ref 5: A python script was launched which uses the "passwords.csv" file to brute
 
 ![Screenshot (1709)](https://github.com/Cyber-ic5/SSH-Bruteforce/assets/169179159/6f46c40b-6a8d-49c6-91f6-d7ecc79fe74f)
 
-Ref 6:
+Ref 6: When a match in credentials is found the shown .txt file is produced. An SSH attempt is made on the ip with the matched credentials.
+
+![Screenshot (1711)](https://github.com/Cyber-ic5/SSH-Bruteforce/assets/169179159/e4ae48b2-ecf7-4c38-88eb-4fe65798470f)
+
+Ref 7: Successful SSH connection!
+
+![Screenshot (1712)](https://github.com/Cyber-ic5/SSH-Bruteforce/assets/169179159/07ac4d4f-b5d9-4bb6-bdf1-5ec39a43e3e4)
+
+Ref 8 & 9: Bonus objective to find the honeypot credentials from the <a href="https://github.com/Cyber-ic5/Simple-Honeypot">honeypot</a> project.
+
+![Screenshot (1714)](https://github.com/Cyber-ic5/SSH-Bruteforce/assets/169179159/9d582761-0184-4efc-9cc1-0f8bd2d44a43)
+
+![Screenshot (1715)](https://github.com/Cyber-ic5/SSH-Bruteforce/assets/169179159/73b8893f-12a7-4ee7-a9d8-c32cbab32eee)
+
+Ref 10: Splunk log snippet from the honeypot.
+
+![Screenshot (1721)](https://github.com/Cyber-ic5/SSH-Bruteforce/assets/169179159/f2d9197f-66ef-4b9e-a324-dc6881b9990b)
