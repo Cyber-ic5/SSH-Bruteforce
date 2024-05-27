@@ -20,11 +20,13 @@ The goal of the SSH bruteforce project was to simulate how weak passwords contai
 - Python Scripts
 - Splunk
 
-## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+## Guide
 
-Every screenshot should have some text explaining what the screenshot is about.
+Ref 1: Network Diagram
 
-Example below.
+![Screenshot (1722)](https://github.com/Cyber-ic5/SSH-Bruteforce/assets/169179159/de814200-61d1-42f1-bc89-9ca97e9efd1b)
 
-*Ref 1: Network Diagram*
+Ref 2: Using CeWL on Kali to crawl through the 1st 2 pages of the Delta airlines website to scape all words with a minimum length of 6 characters.
+
+![Screenshot (1684)](https://github.com/Cyber-ic5/SSH-Bruteforce/assets/169179159/202aefeb-1891-4554-b0ba-8fea2b252a4e)
+
