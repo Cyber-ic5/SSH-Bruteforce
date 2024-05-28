@@ -42,7 +42,7 @@ Ref 5: A <a href="https://github.com/davidbombal/ssh_bruteforcing">Python script
 
 ![Screenshot (1709)](https://github.com/Cyber-ic5/SSH-Bruteforce/assets/169179159/6f46c40b-6a8d-49c6-91f6-d7ecc79fe74f)
 
-Ref 6: When a match in credentials is found the shown .txt file is produced. An SSH attempt is made on the ip with the matched credentials.
+Ref 6: When a match in credentials is found the shown .txt file is produced. A connection attempt via SSH is made on the ip with the matched credentials.
 
 ![Screenshot (1711)](https://github.com/Cyber-ic5/SSH-Bruteforce/assets/169179159/e4ae48b2-ecf7-4c38-88eb-4fe65798470f)
 
